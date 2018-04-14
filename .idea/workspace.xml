@@ -3,43 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9f0a51e8-b4fb-4d86-9581-1beed30e6053" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.bin/acorn" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.bin/acorn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/.npmignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/.tern-project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/.travis.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/AUTHORS" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/acorn/AUTHORS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/acorn/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/acorn/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/bin/acorn" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/acorn/bin/acorn" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/bin/build-acorn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/bin/generate-identifier-regex.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/bin/update_authors.sh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/acorn/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/bin/acorn.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/expression.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/identifier.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/location.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/locutil.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/loose/expression.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/loose/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/lval.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/node.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/options.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/parseutil.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/state.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/statement.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/tokencontext.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/tokenize.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/tokentype.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/util.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/walk/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/acorn/src/whitespace.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/search/scs.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/search/scs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/delete.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/delete.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -71,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="delete.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="delete.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/delete.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+            <state relative-caret-position="147">
+              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -107,10 +71,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scs.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="scs.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/search/scs.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="322">
               <caret line="40" column="6" lean-forward="true" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
             </state>
           </provider>
@@ -128,7 +92,7 @@
       <file leaf-file-name="upload.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/upload.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
+            <state relative-caret-position="336">
               <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
             </state>
           </provider>
@@ -164,12 +128,12 @@
         <option value="$PROJECT_DIR$/routes/summary.js" />
         <option value="$PROJECT_DIR$/routes/util/filepath.js" />
         <option value="$PROJECT_DIR$/routes/detail.js" />
-        <option value="$PROJECT_DIR$/routes/delete.js" />
         <option value="$PROJECT_DIR$/routes/upload.js" />
         <option value="$PROJECT_DIR$/routes/site/startSite.js" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/routes/search/scs.js" />
+        <option value="$PROJECT_DIR$/routes/delete.js" />
       </list>
     </option>
   </component>
@@ -300,7 +264,8 @@
       <workItem from="1515206519970" duration="34264000" />
       <workItem from="1522031557400" duration="1332000" />
       <workItem from="1522204420329" duration="1211000" />
-      <workItem from="1523151426833" duration="7543000" />
+      <workItem from="1523151426833" duration="8799000" />
+      <workItem from="1523668777604" duration="1196000" />
     </task>
     <task id="LOCAL-00001" summary="撒啊实打实重新配置">
       <created>1522031628401</created>
@@ -309,11 +274,18 @@
       <option name="project" value="LOCAL" />
       <updated>1522031628401</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="分布节点-实现星表的锥形检索查询，tgas.dat表格">
+      <created>1523604081455</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1523604081455</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="133727000" />
+    <option name="totallyTimeSpent" value="136179000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -328,13 +300,13 @@
     <frame x="-1928" y="116" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.45528457" visible="true" weight="0.12065332" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4543947" visible="true" weight="0.12065332" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32934782" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34242094" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32884616" />
-      <window_info id="npm" order="2" sideWeight="0.54471546" side_tool="true" weight="0.12065332" />
+      <window_info id="npm" order="2" sideWeight="0.5456053" side_tool="true" weight="0.12065332" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293348" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -343,9 +315,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -356,9 +328,73 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="撒啊实打实重新配置" />
-    <option name="LAST_COMMIT_MESSAGE" value="撒啊实打实重新配置" />
+    <MESSAGE value="分布节点-实现星表的锥形检索查询，tgas.dat表格" />
+    <option name="LAST_COMMIT_MESSAGE" value="分布节点-实现星表的锥形检索查询，tgas.dat表格" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/util/platform.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/delete.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/util/filepath.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1113">
+          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/detail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/site/startSite.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="2" selection-start-line="15" selection-start-column="2" selection-end-line="15" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/upload.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/search/scs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="40" column="6" lean-forward="true" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="819">
@@ -436,13 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/routes/delete.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/routes/util/filepath.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1113">
@@ -473,15 +502,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/upload.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
+        <state relative-caret-position="336">
           <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/search/scs.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="322">
           <caret line="40" column="6" lean-forward="true" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/delete.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
         </state>
       </provider>
     </entry>

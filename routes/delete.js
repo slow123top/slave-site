@@ -14,9 +14,10 @@ router.post('/', function (req, res, next) {
     let reqBody = req.body
     let mainType = reqBody.mainType
     let files = reqBody.files
-    if (typeof files !== Array) {
+    if (typeof files === 'string') {
         files = Array.of(files)
     }
+    console.log(typeof files)
     files.forEach((item) => {
         let allPath = new path.allPath(platform(mainType), item).getPath()
         // console.log(files)
